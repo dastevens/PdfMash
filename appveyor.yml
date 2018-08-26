@@ -5,4 +5,4 @@ configuration:
   - Release
   
 artifacts:
-  path: PdfMash\PdfMash\bin\Release
+  path: PdfMash\bin\Release
