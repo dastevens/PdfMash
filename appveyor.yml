@@ -1,2 +1,8 @@
 before_build:
   - nuget restore
+  
+configuration:
+  - Release
+  
+artifacts:
+  path: PdfMash\PdfMash\bin\Debug
